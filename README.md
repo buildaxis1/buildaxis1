@@ -1,7 +1,6 @@
 <!--
   Profile README — résumé-aligned stack, polished visuals, no account-specific stats.
 -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Senior%20Software%20Engineer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Platform%20%E2%80%A2%20Fintech%20%E2%80%A2%20Multi-tenant%20Postgres&descAlignY=55&descSize=16" alt="header" />
 </p>
