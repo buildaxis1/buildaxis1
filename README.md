@@ -58,7 +58,7 @@
 
 | | |
 | :--- | :--- |
-| **Identity** | **Native American** software engineer · **U.S. citizen** · **Texas** |
+| **Identity** | **Native American** software engineer · **U.S. citizen** · **Pennsylvania** |
 | **Tenure** | **12+ years** in production (since **2013**) · **8+ years** on high-traffic product & platform teams (since **2018**) |
 | **Languages** | **English** — native (U.S.) · second language at **CEFR C2** (specs, incidents, stakeholders) |
 
